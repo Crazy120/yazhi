@@ -16,6 +16,6 @@
       "description": "App api_id from https://my.telegram.org"
     },
     "API_HASH": {
-      "description": "App api_hash from https://my.telegram.org"
+      "description": "App api_hash from https://my.telegram.org"} 
     }
 }
