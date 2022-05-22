@@ -7,7 +7,7 @@ bot = Client(
             "Proxy",
             api_id=int(environ["API_ID"]),
             api_hash= environ["API_HASH"],
-            bot_token= environ["BOT_TOKEN"]
+            bot_token= "5305093897:AAG4EDZ_Nlz_foDltAfn-8nA_DmUHU5N8Dw"
 )
 
 FORCE_CHL = "FIREEYEX"
